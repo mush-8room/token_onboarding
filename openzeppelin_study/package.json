@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "truffle": "^5.5.11"
+  },
+  "dependencies": {
+    "global": "^4.4.0",
+    "nft.storage": "^6.2.0"
+  }
+}
