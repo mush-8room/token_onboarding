@@ -22,3 +22,4 @@ const metadata = await client.store({
     ],
 });
 console.log(metadata.url);
+// ipfs://bafyreibe7diueyorlvb6wyiiui2urrwz3fk3o2xdcym7ssmdnefrukilly/metadata.json
